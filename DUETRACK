@@ -1,0 +1,78 @@
+Project Name: DueTrack – Simple Online Bill Reminder System
+
+Overview:
+DueTrack is a minimal, web-based bill reminder system designed to help users 
+organize, track, and remember their recurring financial obligations. 
+The purpose of the platform is to eliminate the stress of forgotten payments by 
+providing a clean interface where users can manually add their bills and 
+receive timely reminders.
+
+DueTrack focuses on simplicity, clarity, and ease of use. It does not attempt 
+to compete with large finance applications; instead, it provides a fast, 
+lightweight experience for people who only want a straightforward way to manage 
+their bills without unnecessary extras.
+
+Purpose:
+Many people miss payments for rent, electricity, subscriptions, and other 
+monthly expenses simply because they forget. Existing apps often include 
+budgeting tools, graphs, ads, or require full account creation, making them 
+feel heavy and complicated. DueTrack solves this by providing a clean, 
+distraction-free reminder service that works immediately.
+
+Target Users:
+- Individuals who prefer simple tools over complex finance apps.
+- Students managing rent and recurring expenses.
+- Families keeping track of multiple utility bills.
+- Anyone who frequently forgets due dates.
+- Users who don’t want to install mobile apps and prefer a web solution.
+
+Core Features:
+1. Add Bill:
+   Users can add bills with details such as bill name, amount, due date, 
+   and repeat cycle (monthly, yearly, or one-time). This ensures every user 
+   can create a personalized bill list that fits their needs.
+
+2. Dashboard:
+   A clean and minimal dashboard shows upcoming, due, and overdue bills in a 
+   structured format. Users can quickly see what needs attention.
+
+3. Email Reminders:
+   DueTrack sends automated reminders before the due date and on the due date 
+   itself. This helps users consistently stay on top of payments.
+
+4. Optional Sign-in:
+   To minimize friction, DueTrack can be used without requiring signup. Bills 
+   can be stored locally in the browser through localStorage. Users may choose 
+   to create an account later for cloud backups or multi-device sync.
+
+5. Simplicity and No Ads:
+   The platform is intentionally kept minimal, with no ads, charts, financial 
+   complexity, or unnecessary features. The primary focus is usability and 
+   reliability.
+
+Project Goals:
+- Provide an easy-to-use, instant reminder system for all kinds of bills.
+- Help users reduce late fees and missed payments.
+- Build a lightweight, fast-loading tool that works on all devices.
+- Offer a no-friction experience that users can begin using immediately.
+
+Why This Project:
+People frequently forget upcoming payments—not due to financial issues, but 
+because they lack a reliable reminder system. Most existing apps are 
+overcomplicated for users who only need a simple reminder. DueTrack fills this 
+gap by doing one job exceptionally well: reminding users when their bills are 
+due.
+
+Future Enhancements (Not part of the MVP but possible additions):
+- Google Calendar or iCal integration
+- WhatsApp or Telegram reminder notifications
+- Automatic detection of bills from uploaded PDFs or emails
+- Monthly analytics and spending summaries
+- Bill categorization (rent, utilities, subscriptions, etc.)
+- Shared bill tracking for roommates or family members
+
+Conclusion:
+DueTrack is built on the philosophy that simplicity can be powerful. With a 
+clean interface, customizable reminders, and a frictionless experience, 
+DueTrack helps users stay organized and avoid late payments. Its minimal design 
+makes it accessible to everyone and suitable for everyday life.
